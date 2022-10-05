@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlineVpnKeyGenerator", "OutlineVpnKeyGenerator\OutlineVpnKeyGenerator.csproj", "{7C67E285-CBF8-4DDC-A968-732C7EA4BC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C67E285-CBF8-4DDC-A968-732C7EA4BC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C67E285-CBF8-4DDC-A968-732C7EA4BC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C67E285-CBF8-4DDC-A968-732C7EA4BC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C67E285-CBF8-4DDC-A968-732C7EA4BC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CB2696-CB04-4F2C-9168-BF86634454D2}
+	EndGlobalSection
+EndGlobal
